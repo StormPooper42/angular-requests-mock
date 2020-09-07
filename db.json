@@ -1,6 +1,8 @@
 {
   "notes": [
-    "title": "nota pre-inserita",
-    "body": "usata per testare il server."
+    {
+      "title": "nota pre-inserita",
+      "body": "usata per testare il server"
+    }
   ]
 }
