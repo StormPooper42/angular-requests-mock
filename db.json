@@ -1,6 +1,6 @@
-[
-  {
+{
+  "notes": [
     "title": "nota pre-inserita",
-    "testo": "lo scopo di questa nota è quello di vedere se la get dal server funziona"
-  }
-]
+    "body": "usata per testare il server."
+  ]
+}
